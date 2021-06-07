@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270556031068",
+    "project_id": "dates-stampee-personal",
+    "storage_bucket": "dates-stampee-personal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270556031068:android:f5392fc732399f79795e99",
+        "android_client_info": {
+          "package_name": "studio.dates.stampee_personal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270556031068-8vskk0cpvmqom67e4mfb2b1qorvt8tv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRBEOtjKHUafiAh-z61iBMmWecBxqT8A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270556031068-8vskk0cpvmqom67e4mfb2b1qorvt8tv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
